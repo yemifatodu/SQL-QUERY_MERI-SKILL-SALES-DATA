@@ -1,5 +1,12 @@
 # SQL-QUERY_MERI-SKILL-SALES-DATA
 
+This repository is the SQL section of the Meri Skill Sales Project Analysis. Here, you'll find SQL-based solutions and insights derived from the sales data, along with advanced SQL techniques applied to solve real-world business problems.
+You can find the full project report in the main repository here:  
+**[Sale_Data_MeriSkill_Internship_Project](https://github.com/yemifatodu/Sale_Data_MeriSkill_internship_project?tab=readme-ov-file#sale_data_meriskill_internship_project)**
+
+---
+
+
 SQL QUERY IN DATA CLEANING PROCESS
 
    - **Select All Data**:
